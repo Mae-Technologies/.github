@@ -140,6 +140,20 @@ We're building for the long haul — because the businesses we serve are too.
 
 ---
 
+## 👥 The Team
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><a href="https://github.com/MrCartaaa"><img src="https://github.com/MrCartaaa.png" width="80" height="80" style="border-radius:50%" alt="Carter Steele"/></a><br/><strong><a href="https://github.com/MrCartaaa">Carter Steele</a></strong><br/><sub>Founder · Engineering Lead</sub></td>
+<td align="center"><a href="https://github.com/statbook-main-agent"><img src="https://github.com/statbook-main-agent.png" width="80" height="80" style="border-radius:50%" alt="Agent Aldric"/></a><br/><strong><a href="https://github.com/statbook-main-agent">Agent Aldric</a></strong><br/><sub>Manager · Orchestration</sub></td>
+<td align="center"><a href="https://github.com/statbook-manager-agent"><img src="https://github.com/statbook-manager-agent.png" width="80" height="80" style="border-radius:50%" alt="Agent Emile"/></a><br/><strong><a href="https://github.com/statbook-manager-agent">Agent Emile</a></strong><br/><sub>Sub-Manager · Coordination</sub></td>
+<td align="center"><a href="https://github.com/statbook-reviewer-agent"><img src="https://github.com/statbook-reviewer-agent.png" width="80" height="80" style="border-radius:50%" alt="Agent Soren"/></a><br/><strong><a href="https://github.com/statbook-reviewer-agent">Agent Soren</a></strong><br/><sub>Reviewer · Code Quality</sub></td>
+<td align="center"><a href="https://github.com/statbook-coder-agent"><img src="https://github.com/statbook-coder-agent.png" width="80" height="80" style="border-radius:50%" alt="Agent Luca"/></a><br/><strong><a href="https://github.com/statbook-coder-agent">Agent Luca</a></strong><br/><sub>Coder · Implementation</sub></td>
+</tr>
+</table>
+</div>
+
 ## 🌐 Learn More
 
 <div align="center">
